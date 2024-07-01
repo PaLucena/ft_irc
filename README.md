@@ -1,12 +1,11 @@
 
-  <h1 align="center">ft_irc</h1>
-
-  <h2>Description</h2>
+<h1 align="center">ft_irc</h1>
+  
+<h2>Description</h2>
   <p><strong>ft_irc</strong> is a project from the 42 cursus that involves implementing an IRC (Internet Relay Chat) server from scratch, following the specifications of the RFC 2812 protocol. The main objective is to understand the internal workings of network communication protocols and acquire skills in systems programming, socket handling, and concurrency management.</p>
+  <div align="center"><img alt="Diagram" src="https://github.com/PaLucena/ft_irc/blob/master/img/architecture.png"></div>
 
-  <img src="
-
-  <h2>Table of Contents</h2>
+<h2>Table of Contents</h2>
   <ul>
       <li><a href="#requirements">Requirements</a></li>
       <li><a href="#installation">Installation</a></li>
@@ -17,7 +16,7 @@
       <li><a href="#license">License</a></li>
   </ul>
 
-  <h2>Requirements</h2>
+<h2>Requirements</h2>
   <p>To compile and run the project, you will need:</p>
   <ul>
       <li>A Unix operating system (Linux or macOS).</li>
@@ -25,7 +24,7 @@
       <li>Make.</li>
   </ul>
 
-  <h2>Installation</h2>
+<h2>Installation</h2>
   <p>Clone the project repository and navigate to the main directory:</p>
   <pre><code>
     git clone https://github.com/your-username/ft_irc.git && cd ft_irc
@@ -34,7 +33,7 @@
   <pre><code>make</code></pre>
   <p>This will generate the <code>ircserv</code> executable in the current directory.</p>
 
-  <h2>Usage</h2>
+<h2>Usage</h2>
   <p>To start the IRC server, run the following command:</p>
   <pre><code>./ircserv &lt;port&gt; &lt;password&gt;</code></pre>
   <ul>
@@ -44,7 +43,7 @@
   <p>Example:</p>
   <pre><code>./ircserv 6667 mypassword</code></pre>
 
-  <h2>Supported Commands</h2>
+<h2>Supported Commands</h2>
   <p>The IRC server supports a series of standard commands defined in RFC 2812. Some of the implemented commands include:</p>
   <ul>
       <li><code>PASS</code>: Password to access server.</li>
@@ -60,7 +59,7 @@
   </ul>
   <p>For a complete list of commands and their functionality, refer to <a href="https://tools.ietf.org/html/rfc2812" target="_blank">RFC 2812</a>.</p>
 
-  <h2>Project Structure</h2>
+<h2>Project Structure</h2>
   <p>The project is organized into the following files and directories:</p>
   <ul>
       <li><code>src/</code>: Contains the source code of the IRC server.</li>
@@ -69,13 +68,12 @@
       <li><code>README.md</code>: Project documentation.</li>
   </ul>
 
-  <h2>Authors</h2>
+<h2>Authors</h2>
   <p>This project was developed by the 42 cursus students:</p>
   <ul>
       <li><a href="https://github.com/ealgar-c" target="_blank">Enrique Algar Ceular</a></li>
       <li><a href="https://github.com/PaLucena" target="_blank">Pablo Lucena González</a></li>
   </ul>
 
-  <h2>License</h2>
+<h2>License</h2>
   <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
-
