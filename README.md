@@ -27,7 +27,7 @@
 <h2>Installation</h2>
   <p>Clone the project repository and navigate to the main directory:</p>
   <pre><code>
-    git clone https://github.com/your-username/ft_irc.git && cd ft_irc
+    git clone https://github.com/PaLucena/ft_irc.git && cd ft_irc
   </code></pre>
   <p>Compile the project using the included Makefile:</p>
   <pre><code>make</code></pre>
