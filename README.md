@@ -4,6 +4,8 @@
   <h2>Description</h2>
   <p><strong>ft_irc</strong> is a project from the 42 cursus that involves implementing an IRC (Internet Relay Chat) server from scratch, following the specifications of the RFC 2812 protocol. The main objective is to understand the internal workings of network communication protocols and acquire skills in systems programming, socket handling, and concurrency management.</p>
 
+  <img src="
+
   <h2>Table of Contents</h2>
   <ul>
       <li><a href="#requirements">Requirements</a></li>
