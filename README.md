@@ -69,7 +69,7 @@
   </ul>
 
 <h2>Authors</h2>
-  <p>This project was developed by the 42 cursus students:</p>
+  <p>This project was developed by the 42 Cursus students:</p>
   <ul>
       <li><a href="https://github.com/ealgar-c" target="_blank">Enrique Algar Ceular</a></li>
       <li><a href="https://github.com/PaLucena" target="_blank">Pablo Lucena González</a></li>
